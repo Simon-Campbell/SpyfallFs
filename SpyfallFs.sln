@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "SpyfallFs", "SpyfallFs\SpyfallFs.fsproj", "{7DF40507-48B2-47B8-B255-6AAC8BA282FD}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "SpyfallFs.Test", "SpyfallFs.Test\SpyfallFs.Test.fsproj", "{A9CBED5F-C160-4094-B840-4A4BBE4BFC56}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D8D51C39-2019-42AC-B92B-C8DD57EA2EA2}"
+	ProjectSection(SolutionItems) = preProject
+		paket.dependencies = paket.dependencies
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DF40507-48B2-47B8-B255-6AAC8BA282FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DF40507-48B2-47B8-B255-6AAC8BA282FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DF40507-48B2-47B8-B255-6AAC8BA282FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DF40507-48B2-47B8-B255-6AAC8BA282FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9CBED5F-C160-4094-B840-4A4BBE4BFC56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9CBED5F-C160-4094-B840-4A4BBE4BFC56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9CBED5F-C160-4094-B840-4A4BBE4BFC56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9CBED5F-C160-4094-B840-4A4BBE4BFC56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
